@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    background-image: url(assets/1669467469_27-pibig-info-p-khairli-tun-oboi-27.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 250px 500px;
+    width: 100%;
+}
+
+
+
+.right h1{
+    color: #fff;
+
+}
+
+input{
+    border: 0px;
+    border-bottom: 2px solid #636363;
+    margin-bottom: 5px;
+    background-color: #333;
+    gap: 30px;
+    width: 100%;
+}
+
+.background{
+    display: flex;
+    flex-direction: column;
+    background-color: #333;
+    width: 40%;
+}
+
+.background .right{
+    width: 300px;
+    padding: 100px 150px; 
+}
+
+button{
+    background-color: rgb(0, 132, 255);
+    justify-content: center;
+    align-items: center;
+    padding: 15px 30px;
+    border: 0px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+a{
+    color: #636363;
+}
+
